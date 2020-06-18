@@ -10,3 +10,5 @@ endereco
 telefone
 
 cep
+
+rua
