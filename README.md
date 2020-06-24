@@ -12,3 +12,5 @@ telefone
 cep
 
 rua
+
+celular
