@@ -22,3 +22,5 @@ endereco
 fone
 
 informações
+
+email
